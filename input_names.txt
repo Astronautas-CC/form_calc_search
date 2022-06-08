@@ -1,0 +1,9 @@
+entry.1164782596 -> Idade
+entry.2076115585 -> Cidade Natal
+entry.1243307991 -> Curso q esta cursando
+entry.1107927239 -> pq escolheu a Uenp
+entry.661722598 -> vc é calouro, senao que ano esta cursando?
+entry.999335220 -> vc gosta de esportes coletivos? vc pratica?
+entry.69426716 -> quais vc pratica?
+entry.200521330 -> ESCOLHA DO USUARIO 
+                    (como foi seu ensino médio -> Totalmente em escola pública - Totalmente em escola particular - Parcial, entre escola pública e particular)
